@@ -1857,7 +1857,11 @@ jodid25519@^1.0.0:
   dependencies:
     jsbn "~0.1.0"
 
-jpeg-js@0.1.2, jpeg-js@^0.1.2:
+jpeg-js@0.4.4:
+  version "0.4.4"
+  resolved "https://registry.yarnpkg.com/jpeg-js/-/jpeg-js-0.4.4.tgz#a9f1c6f1f9f0fa80cdb3484ed9635054d28936aa"
+
+jpeg-js@^0.1.2:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/jpeg-js/-/jpeg-js-0.1.2.tgz#135b992c0575c985cfa0f494a3227ed238583ece"
 

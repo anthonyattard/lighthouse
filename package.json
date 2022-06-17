@@ -76,7 +76,7 @@
     "axe-core": "2.4.1",
     "chrome-devtools-frontend": "1.0.422034",
     "devtools-timeline-model": "1.1.6",
-    "jpeg-js": "0.1.2",
+    "jpeg-js": "0.4.4",
     "json-stringify-safe": "5.0.1",
     "lighthouse-logger": "^1.0.0",
     "metaviewport-parser": "0.1.0",
